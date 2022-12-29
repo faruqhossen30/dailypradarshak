@@ -9,7 +9,7 @@ $categories = App\Models\Blog\Category::with('subcategories')->get();
             <nav class="navbar navbar-expand-lg navbar-light p-0">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="{{ route('homepage') }}">
-                        <img src="{{ asset('frontend/asset/img/daily runner for heshelghor white text-01.png') }}"
+                        <img src="{{ asset('frontend/asset/img/dailypradarshak.png') }}"
                             class="img-fluid" style="height: 50px;" alt="">
                     </a>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">

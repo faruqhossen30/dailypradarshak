@@ -15,7 +15,7 @@ Category
                         <h4 class="page-title">Category List</h4>
                         <div class="page-title-right">
                             <ol class="breadcrumb m-0">
-                                <li class="breadcrumb-item"><a href="javascript: void(0);">Dailyrunnernews</a></li>
+                                <li class="breadcrumb-item"><a href="javascript: void(0);">Daily Pradarshak</a></li>
                                     <li class="breadcrumb-item"><a href="javascript: void(0);">paper</a></li>
                                     <li class="breadcrumb-item active">Categoey List</li>
                             </ol>

@@ -13,7 +13,7 @@ Online Pull
                         <h4 class="page-title">Datatables</h4>
                         <div class="page-title-right">
                             <ol class="breadcrumb m-0">
-                                <li class="breadcrumb-item"><a href="javascript: void(0);">Dailyrunnernews</a></li>
+                                <li class="breadcrumb-item"><a href="javascript: void(0);">Daily Pradarshak</a></li>
                                 <li class="breadcrumb-item"><a href="javascript: void(0);">Paper</a></li>
                                 <li class="breadcrumb-item active">vot</li>
                             </ol>

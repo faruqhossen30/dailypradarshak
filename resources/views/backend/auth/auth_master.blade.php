@@ -27,7 +27,7 @@
         @yield('auth-content')
 
         <footer class="footer footer-alt">
-            <script>document.write(new Date().getFullYear())</script> &copy; Minton theme by <a href="" class="text-dark">Coderthemes</a>
+            &copy; <script>document.write(new Date().getFullYear())</script> &copy;
         </footer>
 
         <!-- Vendor js -->

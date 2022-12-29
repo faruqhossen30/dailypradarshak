@@ -8,8 +8,8 @@
                     <div style="font-size: 16px; font-weight: bold">নির্বাহী সম্পাদক : মোঃ  রাকিবুল আলম  </div>
                     {{-- ভারপ্রাপ্ত সম্পাদক : <br> --}}
                     ৫৮, বোরহানশাহ রোড, কারবালা ,যশোর।<br>
-                    ফোনঃ 88 02477763843, ই-মেইল : news@dailyrunnernews.com<br>
-                    <a target="_blank" href="#"><span
+                    ফোনঃ 88 02477763843, ই-মেইল : news@dailypradarshak.com<br>
+                    <a target="_blank" href="https://catalystswings.com"><span
                             style="color: #000; font-family: Arial; font-size: 14px; color: #666">Design and
                             Developed by catalystswings Technical Team</span></a>
                 </div>

@@ -14,16 +14,16 @@
 
                             <div class="text-center w-75 m-auto">
                                 <div class="auth-logo">
-                                    <a href="index.html" class="logo logo-dark text-center">
+                                    <a href="{{route('homepage')}}" class="logo logo-dark text-center">
                                         <span class="logo-lg">
-                                            <img src="{{ asset('backend/assets/images/images/daily runner for heshelghor-01.png') }}"
+                                            <img src="{{ asset('frontend/asset/img/dailypradarshak.png') }}"
                                                 alt="" height="50">
                                         </span>
                                     </a>
 
-                                    <a href="index.html" class="logo logo-light text-center">
+                                    <a href="{{route('homepage')}}" class="logo logo-light text-center">
                                         <span class="logo-lg">
-                                            <img src="{{ asset('backend/assets/images/images/logo-light.png') }}"
+                                            <img src="{{ asset('frontend/asset/img/dailypradarshak.png') }}"
                                                 alt="" height="22">
                                         </span>
                                     </a>
@@ -77,13 +77,7 @@
                     </div>
                     <!-- end card -->
 
-                    <div class="row mt-3">
-                        <div class="col-12 text-center">
-                            <p> <a href="auth-recoverpw.html" class="text-muted ms-1">Forgot your password?</a></p>
-                            <p class="text-muted">Don't have an account? <a href="auth-register.html"
-                                    class="text-primary fw-medium ms-1">Sign Up</a></p>
-                        </div> <!-- end col -->
-                    </div>
+                   
                     <!-- end row -->
 
                 </div> <!-- end col -->
